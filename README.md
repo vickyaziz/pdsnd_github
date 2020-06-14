@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+Created at June 14th, 2020
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data in Python
 
 ### Description
-Describe what your project is about and what it does
+For this project, the goal is to ask and answer three questions about the available bikeshare data from Washington, Chicago, and New York.
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Can be seen in readme.txt file
