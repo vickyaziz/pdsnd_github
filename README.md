@@ -17,3 +17,4 @@ bikeshare.py
 
 ### Credits
 Can be seen in readme.txt file
+MIT License
